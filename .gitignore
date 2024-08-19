@@ -1,0 +1,5 @@
+.history
+.vscode
+credentials.py
+__pycache__
+*/migrations/[0-9]*.py
